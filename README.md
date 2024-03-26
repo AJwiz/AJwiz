@@ -32,7 +32,8 @@ Backend Development : [![Node.js](https://img.shields.io/badge/-Node.js-339933?l
 
 Version Control : [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)[![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
 
-Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)](https://babeljs.io/)[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)[![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![Webpack](https://img.shields.io/badge/-4B32C3?logo=websocket&logoColor=white)](https://webpack.js.org/)[![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)](https://babeljs.io/)[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)[![Socket.IO
+](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://socket.io/)
 
 
 <!--  DIVIDER  -->
