@@ -15,6 +15,8 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 
 🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
+🤯 Im currently learning NextJs, Typescript and GraphQL.
+
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
