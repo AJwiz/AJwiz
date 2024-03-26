@@ -48,8 +48,8 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 </br>
 
 <!--  MY GITHUB STAT  --><!--  LANGUAGES USED  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" />
+<p>  <img style="align-item: left" src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
+<img style="align-item: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" />
 </p>
 
 <!--  DIVIDER  -->
