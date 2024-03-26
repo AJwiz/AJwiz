@@ -40,8 +40,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 
 </br>
 <!--  MY README STAT  -->
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AJwiz
-&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AJwiz&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -49,10 +48,8 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 </br>
 
 <!--  MY GITHUB STAT  --><!--  LANGUAGES USED  -->
-<p style="margin-right: 10px;">  <img src="https://github-readme-stats.vercel.app/api?username=AJwiz
-&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz
-&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=AJwiz&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 </p>
 
 <!--  DIVIDER  -->
