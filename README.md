@@ -15,6 +15,7 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 
 🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
+</br>
 
 </br>
 
@@ -47,18 +48,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 </br>
 
 <!--  HI PIKACHU  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
-
-<!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=AJwiz&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
-
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
-</br>
-
-<!--  CAT  -->
-<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="left" width="15%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
