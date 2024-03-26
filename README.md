@@ -15,8 +15,6 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 
 🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
-🤯 Im currently learning NextJs, Typescript and GraphQL.
-
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
@@ -26,16 +24,15 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!--  EXPERTISE  -->
-### My expertise encompasses:
+### My Arsenals:
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
-[![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+Frontend Development: [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)[![MaterialUI](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://mui.com/material-ui/)[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+
+Backend Development :
+
+
+
+
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
