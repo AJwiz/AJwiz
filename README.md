@@ -53,7 +53,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 </p>
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true" /> </p>
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
