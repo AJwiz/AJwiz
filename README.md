@@ -13,8 +13,6 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 
 🔮 Fueled by an insatiable curiosity, I'm always embracing new technologies, with an upcoming focus on web and blockchain development.
 
-🌟 In addition, as I am currently in the process of learning more about open-source projects, I am eager to soon begin collaborating with the community to drive innovation and create solutions that benefit everyone.
-
 🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
 <!--  EXCITED CHARACTERS  -->
