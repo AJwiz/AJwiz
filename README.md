@@ -40,7 +40,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 
 </br>
 <!--  MY README STAT  -->
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=jameel-webdev
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AJwiz
 &theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
  <!--  DIVIDER  -->
@@ -49,9 +49,9 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 </br>
 
 <!--  MY GITHUB STAT  --><!--  LANGUAGES USED  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=jameel-webdev
+<p style="margin-right: 10px;">  <img src="https://github-readme-stats.vercel.app/api?username=AJwiz
 &show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameel-webdev
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz
 &show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 </p>
 
