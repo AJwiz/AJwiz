@@ -15,8 +15,6 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 
 🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
-<!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 </br>
 
@@ -32,7 +30,7 @@ Backend Development : [![Node.js](https://img.shields.io/badge/-Node.js-339933?l
 
 Version Control : [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)[![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
 
-Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![Webpack](https://img.shields.io/badge/-Webpack-4B32C3?logo=websocket&logoColor=white)](https://webpack.js.org/)[![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)](https://babeljs.io/)[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)[![Socket.IO
+Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![Webpack](https://img.shields.io/badge/-Webpack-61DAFB?logo=websocket&logoColor=white)](https://webpack.js.org/)[![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)](https://babeljs.io/)[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)[![Socket.IO
 ](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://socket.io/)
 
 
@@ -41,7 +39,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 
 </br>
 
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=lassiecoder&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AJwiz&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -52,7 +50,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=AJwiz&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -63,7 +61,7 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
 
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
