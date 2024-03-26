@@ -1,21 +1,21 @@
-<!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
-  </tr>
-
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
+
 Hello World! 👋
 
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+I'm an avid **Fullstack Developer** with a passion for creating innovative solutions for web platforms.
 
-💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
+💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences to architecting robust back-end solutions.
 
-🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
+🔮 Fueled by an insatiable curiosity, I'm always embracing new technologies, with an upcoming focus on web and blockchain development.
+
+🌟 In addition, as I am currently in the process of learning more about open-source projects, I am eager to soon begin collaborating with the community to drive innovation and create solutions that benefit everyone.
+
+🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
