@@ -39,8 +39,9 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
-
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AJwiz&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
+<!--  MY README STAT  -->
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=jameel-webdev
+&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -48,8 +49,10 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 </br>
 
 <!--  MY GITHUB STAT  --><!--  LANGUAGES USED  -->
-<p>  <img style="align-item: left" src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
-<img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
+<p style="margin-right: 10px;">  <img src="https://github-readme-stats.vercel.app/api?username=jameel-webdev
+&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameel-webdev
+&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 </p>
 
 <!--  DIVIDER  -->
@@ -58,12 +61,9 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 
 ### _**You can find me on:**_
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-s-b79401142/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://sharmapriyanka84510.medium.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmapriyanka84510@gmail.com)
-[![Polywork](https://img.shields.io/badge/-Polywork-4A90E2?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/priyanka_s)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lassiecoder)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lassiecoder/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lassiecoder)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameel-webdev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameel.webdev@gmail.com)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jameel-webdev)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jameel.webdev)
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
