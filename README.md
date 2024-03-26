@@ -7,7 +7,7 @@
 
 Hello World! 👋
 
-I'm an avid **Fullstack Developer** with a passion for creating innovative solutions for web platforms.
+I'm a versatile **Fullstack Developer** with a passion for creating innovative solutions for web platforms based in India.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences to architecting robust back-end solutions.
 
@@ -15,7 +15,7 @@ I'm an avid **Fullstack Developer** with a passion for creating innovative solut
 
 🌐 Check out my <a href="https://jameel-webdev.netlify.app/">website</a> to learn more about me.
 
-</br>
+🤯 I'm currrently learning Nextjs, Typescript and GraphQL.
 
 </br>
 
@@ -47,8 +47,11 @@ Others : [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20
 
 </br>
 
+<!--  MY GITHUB STAT  -->
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+
 <!--  HI PIKACHU  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="left" width="15%" alt="pikachu-hi">
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="center" width="15%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJwiz&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
